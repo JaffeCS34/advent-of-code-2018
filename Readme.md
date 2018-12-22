@@ -1,4 +1,4 @@
-###Steps###
+### Steps ###
 
 1. Make sure you have Node and npm installed.  (If you are using Cloud 9, these are installed by default)
 2. Clone this repository to your computer or USB drive
