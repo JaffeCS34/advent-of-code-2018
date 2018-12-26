@@ -1,6 +1,6 @@
 const fs = require('fs');
 const R = require('ramda');
-const fileSpec = 'data08.txt';
+const fileSpec = 'data09.txt';
 
 fs.readFile(fileSpec, 'utf8', (err, data) => {
 
