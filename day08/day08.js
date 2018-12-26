@@ -1,6 +1,6 @@
 const fs = require('fs');
 const R = require('ramda');
-const fileSpec = 'data09.txt';
+const fileSpec = 'data08.txt';
 
 fs.readFile(fileSpec, 'utf8', (err, data) => {
 
@@ -52,7 +52,4 @@ fs.readFile(fileSpec, 'utf8', (err, data) => {
   console.log('Metadata sum: '+metadataSum);
   console.log('Root node value: '+node.getValue());
 
-  // Part 2
-
-    
 })
